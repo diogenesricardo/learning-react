@@ -1,3 +1,14 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  height: 100vh;
+  background-color: #005b96;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
 .card-login {
   width: 500px;
   height: 500px;
